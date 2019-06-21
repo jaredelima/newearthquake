@@ -1,3 +1,3 @@
 # newearthquake
 
-https://media.giphy.com/media/H3AwKyz2mHyEwMDoVx/giphy.gif
+https://giphy.com/gifs/H3AwKyz2mHyEwMDoVx/html5
