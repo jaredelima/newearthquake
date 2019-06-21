@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/newearthquake.iml" filepath="$PROJECT_DIR$/newearthquake.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/newearthquake_android.iml" filepath="$PROJECT_DIR$/android/newearthquake_android.iml" />
     </modules>
   </component>
 </project>
